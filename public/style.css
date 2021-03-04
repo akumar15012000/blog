@@ -1,0 +1,53 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+   
+   
+}
+.navbar-header
+{
+    margin-left: 50px;
+}
+.navbar-brand
+{
+    font-weight: bolder;
+    
+}
+.navbar  
+{
+   
+    padding: 20px;
+    border-style: solid;
+    border-bottom:grey;
+    border-bottom-style: solid;
+}
+a
+{
+    text-decoration: none;
+}
+.footer
+{
+    text-transform: capitalize;
+    text-align: center;
+    
+    height: 50px;
+    background-color: tomato;
+   
+  
+    
+}
+.fixed
+{
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+}
+
+p
+{
+    max-width:2000px;
+    word-wrap:break-word;
+}
