@@ -12,7 +12,7 @@ var content=[];
 app.get("/",function(req,res)
 {
      
-     res.render('index',{title:title,content:content})
+     res.render(__dirname+'index',{title:title,content:content})
      
 })
 app.get("/about",function(req,res)
